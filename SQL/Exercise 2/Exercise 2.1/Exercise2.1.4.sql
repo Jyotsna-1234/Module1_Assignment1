@@ -1,0 +1,2 @@
+
+SELECT *FROM  Emp e WHERE TO_NUMBER(TO_CHAR(e.Hiredate, 'DD')) <=15

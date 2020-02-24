@@ -1,0 +1,1 @@
+Rename customer to cust_table;

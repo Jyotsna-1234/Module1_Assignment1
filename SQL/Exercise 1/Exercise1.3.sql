@@ -1,0 +1,1 @@
+SELECT * FROM Staff_Master WHERE Mgr_code IS NULL;

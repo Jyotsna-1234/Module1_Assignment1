@@ -1,0 +1,1 @@
+SELECT Staff_Name FROM Staff_Master WHERE Staff_Name LIKE '%_%';

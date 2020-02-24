@@ -1,0 +1,1 @@
+SELECT * FROM Book_Master WHERE Book_pub_year BETWEEN 2001 AND 2004 AND Book_Name LIKE '%[&]%';

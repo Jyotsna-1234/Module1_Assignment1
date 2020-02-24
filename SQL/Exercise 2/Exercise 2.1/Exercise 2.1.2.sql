@@ -1,0 +1,1 @@
+SELECT  Student_name,TO_CHAR(Student_dob ,"MONTH, DD YYYY") AS Student_Dob FROM Student_Master WHERE TO_CHAR(Student_dob,'DAY') LIKE  '%Saturday' OR TO_CHAR(Student_dob,'DAY') LIKE  '%Sunday');
